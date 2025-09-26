@@ -1,0 +1,11 @@
+Meny
+-Pizzaer osv.
+Betaling
+-Alternativer å betale på
+Orderoversikt
+-Ordere aktive
+-Tidligere ordere
+Handlekurv
+Admin/innstillinger
+-Z-rapport
+Endre produksjonstid/meny

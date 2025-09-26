@@ -1,0 +1,50 @@
+Spesialisert for Massimo Pizza
+Ikke fokus på hvordan nettsiden fungerer, det blir en annen gang
+
+Kategorier pizza (hva som kan kjøpes):
+- Rød pizza
+- Hvit pizza
+- Vegetar pizza (inneholder røde og hvite pizzar itillegg til pizzaer som er ingen av delene)
+- Vegansk pizza
+- Sides (focaccia)
+- Dessert
+- Tilbehør (dip, pizzadeig (vanlig/glutenfri))
+- Drikke
+- Størrelser
+
+- Legge til/ta vekk ingrediesner (modifisere bestilling)
+
+Bestillinger fra telefon
+- Lagre bestillinger som kunden skal kjøpe senere
+
+
+Oversikt over alle bestillinger
+- Sortert etter tid
+
+Printe ut bestilling (bong)
+- Lett og lese
+- Tid (ASAP eller til bestemt tid)
+- Bestilling
+- Navn
+- Telefonnummer
+- Levering
+	* Adresse
+	* ASAP eller ikke
+
+Betaling
+- Fra nettsider er ting automatisk betalt
+- Legger alt i en handlekurv og får kunden til å betale
+- 
+
+Z-rapport
+-Printe ut en total av hva som ble kjøpt i dag
+
+Hva som trengte å gjøres bedre
+- gjøre det lettere å bruke kassesystemet for alle (kassearbeider/kokker)
+- lettere å lese bongene som kommer ut (ingen misforståelser)
+- lett å lære til nye brukere
+
+
+Ekstra ting
+- sette på forskjellige språk (norsk/engelsk/italiensk) (default engelsk)
+- leverings tid printer også hvor lang tid det trengs til stedet?
