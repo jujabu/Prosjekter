@@ -1,0 +1,31 @@
+Rød pizza:
+Margherita
+Skinke
+Pepperoni
+Napoletana
+Margherita Spesial
+Sicilia
+Salerno
+Capricciosa
+Diavola
+Biff alla Pizzaiola
+Calabria
+Chicken alla Cacciatora
+Diavola Spesial
+Kantarell og Cherrytomat
+Parma
+Hvit pizza:
+Biancacotto
+Quattro Formaggi
+Tartufata
+Sjampignon, løk og potet
+Carbonara
+Pepperoni og Potet med brokkoli
+Tartufata med Salsiccia
+Chicken Spesial
+Salsiccia og Brokkolikrem
+Saporita
+Biff Spesial
+Salsiccia og Potet med Trøffelkrem
+Parma Spesial
+Kantarell med Trøffelkrem
