@@ -18,5 +18,5 @@ bong2 = order.lag_bong()
 bong2.skriv_ut()
 
 print()
-meny = Meny("C:\Documents (not OneDrive)\Prosjekter\Kassesystem\Tredje_utkast\.tekstfiler\meny.txt")
+meny = Meny("C:\Documents (not OneDrive)\Prosjekter\Kassesystem\Tredje_utkast\.tekstfiler\meny.csv")
 meny.skriv_ut()

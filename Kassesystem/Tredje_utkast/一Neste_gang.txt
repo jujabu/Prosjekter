@@ -1,0 +1,4 @@
+Avsluttet på meny-klassen
+
+Gjør det mulig å hente fra 'meny.csv' og bruke dem til å 
+f. eks. legge i en handlekurv eller bestilling
